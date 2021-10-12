@@ -22,7 +22,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 
-### Analytics ⚙️
+### Analytics 📈
   
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anadeso" />

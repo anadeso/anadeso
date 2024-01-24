@@ -1,6 +1,6 @@
-# 🚧 README 🚧
+
 # 💫 About Me:
-Olá pessoal 👋<br><br>Eu sou Ana Sousa, Software Developer no Mercado Pago.  <br>
+Olá pessoal 👋<br><br>Eu sou Ana Sousa, Software Developer<br>
 
 
 ## 🌐 Socials:
